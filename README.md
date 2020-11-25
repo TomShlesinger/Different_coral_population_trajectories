@@ -4,3 +4,12 @@ This repository includes data and code used in the study entitled:
 
 ### (in submission)
 ---
+
+### Description:
+
+### Contents:
+#### Script:
+* **IPM_script.R:** R script that sets up data and run the analyses.
+
+#### Data:
+Data will be available here upon publication. 
