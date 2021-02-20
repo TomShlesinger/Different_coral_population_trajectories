@@ -1,4 +1,4 @@
-This repository includes data and code associated with the paper published in the Journal of Animal Ecology (2021) titled:
+This repository includes data and R scripts associated with the paper published in the Journal of Animal Ecology (2021) titled:
 
 # Different population trajectories of two reef-building corals with similar life-history traits
 
