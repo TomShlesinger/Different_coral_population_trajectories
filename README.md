@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/316054468.svg)](https://zenodo.org/badge/latestdoi/316054468)
+
 This repository includes data and R scripts associated with the paper published in the Journal of Animal Ecology (2021) titled:
 
 # Different population trajectories of two reef-building corals with similar life-history traits
